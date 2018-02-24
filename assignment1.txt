@@ -1,0 +1,58 @@
+Assignment-1
+
+
+1. Display all the documents in the collection restaurants.
+
+
+2. Display the fields restaurant_id, name, borough and cuisine for all the documents in the
+ collection restaurant.
+
+
+3. Display the fields restaurant_id, name, borough and cuisine, but exclude the field _id for
+all the documents in the collection restaurant.
+
+
+4. Display the fields restaurant_id, name, borough and zip code, but exclude the field _id for
+all the documents in the collection restaurant.
+
+
+5. Display all the restaurant which is in the borough Bronx.
+
+
+6. Display the first 5 restaurant which is in the borough Bronx.
+
+
+7. Display the next 5 restaurants after skipping first 5 which are in the borough Bronx.
+
+
+8. Find the restaurants who achieved a score more than 90.
+
+
+9. Find the restaurants that achieved a score, more than 80 but less than 100.
+
+
+10. Find the restaurants which locate in latitude value less than -95.754168.
+
+11. Find the restaurants that do not prepare any cuisine of 'American' and their grade score
+more than 70 and latitude less than -65.754168.
+
+
+12. Find the restaurants which do not prepare any cuisine of 'American' and achieved a score
+more than 70 and located in the longitude less than -65.754168.
+
+
+13. Find the restaurants which do not prepare any cuisine of 'American ' and achieved a grade
+point 'A' not belongs to the borough Brooklyn.
+
+14. Find the restaurant Id, name, borough and cuisine for those restaurants which contain
+'Wil' as first three letters for its name.
+
+
+15. Find the restaurant Id, name, borough and cuisine for those restaurants which contain 'ces'
+as last three letters for its name.
+
+
+16. Find the restaurant Id, name, borough and cuisine for those restaurants which contain
+'Reg' as three letters somewhere in its name.
+
+
